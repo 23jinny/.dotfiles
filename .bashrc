@@ -16,7 +16,7 @@ fi
 PATH="$PATH:$HOME/.local/bin:$HOME/bin"
 PATH="$HOME/bin/x86_64:$PATH"
 PATH="$HOME/programs/bin:$PATH"
-PATH="$HOME/shell_scripts:$PATH"
+PATH="$HOME/programs/gh_2.2.0_linux_386/bin:$PATH"
 PATH="$HOME/programs/Python-3.9.4:$PATH"
 PATH="$HOME/programs/R-4.0.5/bin:$PATH"
 PATH="$HOME/programs/bamUtil/bin:$PATH"
