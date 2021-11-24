@@ -3,3 +3,7 @@
 [user]
 	email = sangjin.lee1012@gmail.com
 	name = Sangjin Lee
+[core]
+	editor = nvim
+[push]
+	default = simple
